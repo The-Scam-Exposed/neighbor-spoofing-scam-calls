@@ -1,0 +1,10 @@
+segment,complaints_with_callee_area_code,same_area_code_complaints,same_area_code_pct
+All phone complaints,486639,182527,37.5
+All excluding toll-free callers,400324,182527,45.6
+Medical or prescriptions,26943,,86.0
+Warranties,5741,,66.4
+Dropped or silent call,37844,,57.2
+Home improvement,5995,,55.4
+Impersonation,45848,,51.3
+Other,154947,,48.7
+Debt reduction,81938,,10.6
