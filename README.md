@@ -2,7 +2,7 @@
 
 How often does a reported scam or unwanted call come from a number that shares the consumer's own area code? This dataset summarizes US consumer complaints about unwanted and scam calls, grouped by caller number.
 
-Full analysis and free number lookup: https://thescamexposed.com/robocall-checker
+Full analysis: https://thescamexposed.com/neighbor-spoofing (free number lookup: https://thescamexposed.com/robocall-checker)
 Publisher: The Scam Exposed (https://thescamexposed.com)
 
 ## Key findings
