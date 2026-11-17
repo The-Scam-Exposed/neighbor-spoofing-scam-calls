@@ -1,6 +1,6 @@
 # Neighbor Spoofing in US Scam Call Complaints
 
-How often does a reported scam or unwanted call come from a number that shares the consumer's own area code? This dataset summarizes 486,639 consumer complaints across 261,367 caller numbers.
+How often does a reported scam or unwanted call come from a number that shares the consumer's own area code? This dataset summarizes US consumer complaints about unwanted and scam calls, grouped by caller number.
 
 Full analysis and free number lookup: https://thescamexposed.com/robocall-checker
 Publisher: The Scam Exposed (https://thescamexposed.com)
